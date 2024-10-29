@@ -1,9 +1,9 @@
 ## Informasi
-Sebelum clone github ini, pastikan anda sudah menginstall Node.js pada system anda
+Sebelum clone github ini, pastikan anda sudah menginstall Node.js pada sistem anda
 
 ## Instalasi Node.js
 1. Kunjungi website [Node.js](https://nodejs.org/id)
-2. Pilih yang LTS (Long Term Support) dengan file berekstensi .msi (x64 atau x86)
+2. Pilih yang LTS (Long Term Support) dengan file berekstensi .msi (x64 atau x86) untuk sistem operasi Windows
 3. Download dan Install
 4. Untuk mengetahui apakah Node.js berhasil terisntall, anda bisa menjalankan perintah berikut pada terminal anda
 ```bash
