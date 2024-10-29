@@ -1,5 +1,5 @@
 ## Informasi
-Sebelum clone github ini, pastikan anda sudah menginstall node.js pada system anda
+Sebelum clone github ini, pastikan anda sudah menginstall Node.js pada system anda
 
 ## Instalasi Node.js
 1. Kunjungi website [Node.js](https://nodejs.org/id)
@@ -12,7 +12,7 @@ npm -v
 ```
 5. Jika muncul versi dari Node.js dan npm, artinya instalasi Node.js telah berhasil
 
-## Instalasi Three.js dengan nom
+## Instalasi Three.js dengan npm
 1. Masuk ke dalam folder untuk workspace proyek Three.js
 2. Membuat file `package.json` untuk menyimpan informasi dan dependencies dengan perintah berikut :
 ```bash
