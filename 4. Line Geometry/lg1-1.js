@@ -8,11 +8,13 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 renderer.setClearColor('#ffffff', 1);
 document.body.appendChild(renderer.domElement);
 
-camera.position.z = 1;
+camera.position.z = 3;
 
 const points = [];
 points.push(new THREE.Vector3(-1, 0, 0));
 points.push(new THREE.Vector3(1, 0, 0));
+points.push(new THREE.Vector3(0, 1, 0));
+points.push(new THREE.Vector3(-1, 0, 0));
 
 const geometry = new THREE.BufferGeometry().setFromPoints(points);
 
