@@ -1,3 +1,17 @@
+## Chapter 04 Three.js
+
+<div align="center">
+  
+| Nama | NRP | 
+| --- | --- |
+| Nabilah Atika Rahma | 5025221005 |
+| Amanda Illona Farrel | 5025221056 |
+| Hilmi Fawwaz Sa’ad | 5025221103 |
+| Ahmad Fatih Ramadhani | 5025221191 |
+| Richo Yudha Kurniawan | 5025221242 |
+
+</div>
+
 ## Informasi
 Sebelum clone github ini, pastikan anda sudah menginstall Node.js pada sistem anda
 
@@ -24,3 +38,9 @@ npm install three
 ```
 4. Perintah tersebut akan menambahkan Three.js ke proyek dan menyimpannya di folder `node_modules`
 5. Instalasi Three.js telah berhasil
+
+## Resources
+
+1. Canva - [PPT](https://www.canva.com/design/DAGUXSsvODQ/pww_q5OCj0qHRLvXR4b4pQ/view?utm_content=DAGUXSsvODQ&utm_campaign=designshare&utm_medium=link&utm_source=editor#8)
+2. Book - Jos Dirksen - Learning Three.js _ Programming 3D Animations and Visualizations for The Web with HTML5 and WebGL (2018)
+3. Source Code - [Github](https://github.com/josdirksen/learning-threejs-third/tree/master)
