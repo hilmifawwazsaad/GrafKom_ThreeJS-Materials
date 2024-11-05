@@ -41,6 +41,6 @@ npm install three
 
 ## Resources
 
-1. Canva - [PPT](https://www.canva.com/design/DAGUXSsvODQ/pww_q5OCj0qHRLvXR4b4pQ/view?utm_content=DAGUXSsvODQ&utm_campaign=designshare&utm_medium=link&utm_source=editor#8)
+1. Canva - [PPT](https://www.canva.com/design/DAGUXSsvODQ/pww_q5OCj0qHRLvXR4b4pQ/view?utm_content=DAGUXSsvODQ&utm_campaign=designshare&utm_medium=link&utm_source)
 2. Book - Jos Dirksen - Learning Three.js _ Programming 3D Animations and Visualizations for The Web with HTML5 and WebGL (2018)
 3. Source Code - [Github](https://github.com/josdirksen/learning-threejs-third/tree/master)
